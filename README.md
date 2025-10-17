@@ -1,0 +1,1 @@
+# Python_mini_project_for_internship
