@@ -29,7 +29,9 @@ Eat the red square to grow and score points!
 Control a paddle to bounce a ball and break all the bricks on the screen.  
 Your score increases for every brick you break!
 
----
+___
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/ca81aa75-d4e3-48e1-b666-780c1f46cc28" />
+
 
 ### 🧠 Key Concepts
 - Object movement using **pygame.Rect()**
