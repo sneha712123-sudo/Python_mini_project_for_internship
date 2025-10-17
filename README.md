@@ -10,6 +10,9 @@ This repository contains three fun and educational games built using *Python* an
 *Description:*  
 A simple, classic snake game where the player controls a snake to eat food and grow longer. The game ends if the snake hits the wall or itself.
 
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/bed3cd16-3bb1-4e41-ab66-268030458383" />
+
+
 *Key Concepts:*  
 - Loops and conditions  
 - Collision detection  
@@ -46,6 +49,7 @@ Your score increases for every brick you break!
 ### 🎮 Description
 A simple arcade-style game where the player controls a spaceship and shoots down enemies.  
 Your mission: Survive as long as possible while destroying enemy ships and scoring points!
+
 
 ---
 
